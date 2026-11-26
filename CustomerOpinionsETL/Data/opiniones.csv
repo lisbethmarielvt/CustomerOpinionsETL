@@ -1,0 +1,3 @@
+OpinionId,CustomerId,ProductId,Comment,Rating,OpinionDate,Channel,EventId,Sentiment
+OP001,C001,P001,"El producto cumplió con lo esperado",5,2026-11-18,Web,,Positivo
+OP002,C002,P003,"La entrega se retrasó",2,2026-11-19,Tienda,E001,Negativo
